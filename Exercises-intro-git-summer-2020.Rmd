@@ -13,7 +13,7 @@ Together as a group, we'll go through a complete cycle of the github workflow to
 
 ```{r make a function to multiply by five}
 mult5 <- function(x){
-  return(x * 5)
+  return(x * 4)
 }
 
 mult5(2) #Should return the value 10
