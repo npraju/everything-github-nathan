@@ -124,7 +124,7 @@ git push origin exercise-4
 
 ```{r make function for square root of value}
 square_root <- function(x){
-  return()
+  return(x ^ 0.5)
 }
 
 square_root(144) #Should return the 12
