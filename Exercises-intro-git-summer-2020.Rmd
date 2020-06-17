@@ -83,7 +83,7 @@ Complete the function so that it returns an input, x, to the power of 2.
 
 ```{r make function to square a value}
 power2 <- function(x){
-  return()
+  return(x ^ 2)
 }
 
 power2(5) #Should return 25
